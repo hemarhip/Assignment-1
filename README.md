@@ -1,5 +1,13 @@
-👋 Hi, I’m Hema Negi
-👀 I’m interested in changing my Carrer Path
-🌱 I’m currently learning Python
-💞️ I’m looking to find a Job
-📫 Reach ny via email hema.rhip@gmail.com
+# Assignment1
+# Task 1: Basic Mathematical Operations
+  Takes two numbers as user input.
+  Performs and displays:
+    # Addition
+    # Subtraction
+    # Multiplication
+    # Division
+
+# Task 2: Personalized Greeting
+  Takes user's first and last name as input.
+  Concatenates them to form a full name.
+  Prints a personalized greeting message.
